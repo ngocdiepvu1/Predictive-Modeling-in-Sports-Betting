@@ -7,19 +7,19 @@ Our objectives include developing a predictive model that integrates a variety o
 
 ## Contents
 Predictive-Modeling-in-Sports-Betting/  
-1. rc/                              # Source code
-- eda_soccerdata.R              # Exploratory data analysis
-- final_code.R                  # Main code
-- get_Football_Data.ipynb       # Get data from Football Data (main)
-- get_Soccer_API_data.ipynb     # Get data from Soccer API
-- soccer_models.R               # Code for first report
-2. data/                     # Static files
-- soccerdata.csv        # Final CSV file for the models
-- Soccer Data/          # Folder of CSV files for each league season (input for get_Football_Data.ipynb)
-3. docs/                     # Static files
-- Presentation.pdf      # Project presentation
-- Report.pdf            # Project report
-4. README.md        # Project README
+1. src/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Source code
+- eda_soccerdata.R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Exploratory data analysis
+- final_code.R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Main code
+- get_Football_Data.ipynb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Get data from Football Data (main)
+- get_Soccer_API_data.ipynb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Get data from Soccer API
+- soccer_models.R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#Code for first report
+2. data/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Static files
+- soccerdata.csv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Final CSV file for the models
+- Soccer Data/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Folder of CSV files for each league season (input for get_Football_Data.ipynb)
+3. docs/
+- Presentation.pdf
+- Report.pdf
+4. README.md
 
 ## Basic Usage
 1. Run the get_Football_Data.ipynb file to get the data
