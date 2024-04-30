@@ -6,24 +6,24 @@ In this research, we concentrate on predicting soccer match outcomes and evaluat
 Our objectives include developing a predictive model that integrates a variety of data points to forecast match outcomes, identifying the most significant factors determining match results, and comparing the effectiveness of different statistical and machine learning methods in sports outcome predictions.
 
 ## Contents
-Predictive-Modeling-in-Sports-Betting/
-│
-├── src/                              # Source code
-│   ├── eda_soccerdata.R              # Exploratory data analysis
-│   ├── final_code.R                  # Main code 
-│   ├── get_Football_Data.ipynb       # Get data from Football Data (main)
-│   ├── get_Soccer_API_data.ipynb     # Get data from Soccer API
-│   └── soccer_models.R               # Code for first report
-│
-├── data/                     # Static files
-│   ├── soccerdata.csv        # Final CSV file for the models
-│   └── Soccer Data/          # Folder of CSV files for each league season (input for get_Football_Data.ipynb)
-│
-├── docs/                     # Static files
-│   ├── Presentation.pdf      # Project presentation
-│   └── Report.pdf            # Project report
-│
-└── README.md        # Project README
+Predictive-Modeling-in-Sports-Betting/  
+│  
+├── src/                              # Source code  
+│   ├── eda_soccerdata.R              # Exploratory data analysis  
+│   ├── final_code.R                  # Main code   
+│   ├── get_Football_Data.ipynb       # Get data from Football Data (main)  
+│   ├── get_Soccer_API_data.ipynb     # Get data from Soccer API  
+│   └── soccer_models.R               # Code for first report  
+│  
+├── data/                     # Static files  
+│   ├── soccerdata.csv        # Final CSV file for the models  
+│   └── Soccer Data/          # Folder of CSV files for each league season (input for get_Football_Data.ipynb)  
+│  
+├── docs/                     # Static files  
+│   ├── Presentation.pdf      # Project presentation  
+│   └── Report.pdf            # Project report  
+│  
+└── README.md        # Project README  
 
 
 ## Basic Usage
