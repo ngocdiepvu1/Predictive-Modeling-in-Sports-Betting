@@ -1,0 +1,59 @@
+Notes for Football Data
+
+All data is either in csv or xlsx format
+
+Key to results data:
+Date
+Time
+
+Div = League Division
+HomeTeam = Home Team
+AwayTeam = Away Team
+FTHG = Full Time Home Team Goals
+FTAG = Full Time Away Team Goals
+FTR = Full Time Result (0=Home Win, 1=Draw, 2=Away Win)
+HTHG = Half Time Home Team Goals
+HTAG = Half Time Away Team Goals
+HTR = Half Time Result (0=Home Win, 1=Draw, 2=Away Win)
+HS = Home Team Shots
+AS = Away Team Shots
+HST = Home Team Shots on Target
+AST = Away Team Shots on Target
+
+
+Key to 1X2 (match) betting odds data:
+
+AvgH = Market average home win odds
+AvgD = Market average draw win odds
+AvgA = Market average away win odds
+
+
+Key to total goals betting odds:
+
+
+Avg>2.5 = Market average over 2.5 goals
+Avg<2.5 = Market average under 2.5 goals
+
+
+Key to Asian handicap betting odds:
+
+AHh = Market size of handicap (home team)
+
+
+
+Closing odds (last odds before match starts):
+
+AvgCH = Market average closing home win odds
+AvgCD = Market average closing draw win odds
+AvgCA = Market average closing away win odds
+
+AvgC>2.5 = Market closing average over 2.5 goals
+AvgC<2.5 = Market closing average under 2.5 goals
+
+AHCh = Closing market size of handicap (home team)
+
+HLP = Home Leaugue Place
+ALP = Away Leaugue Place
+
+
+
