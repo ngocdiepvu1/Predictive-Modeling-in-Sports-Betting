@@ -32,3 +32,6 @@ The code produces these statistics in its output:
 2. Random Forest for the likelihood of a home win
 3. Simplified Logistic Regression for the likelihood of a home win
 4. Accuracy, AUC-ROC, precision, recall, F1 score, and CV accuracy for each model
+
+## Contributor
+Yousef Lari 
